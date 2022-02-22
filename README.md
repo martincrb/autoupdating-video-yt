@@ -13,5 +13,14 @@ This aplication use the API of Youtube for changues the Title of your channel of
 
 ToDO
 
-This app is written in python 2.7. This app need to migrate a python 3.8
+[] Colocar las varibales de entorno en el archivo `.env`
+
+
+## CHANGUES LOG
+
+* Se cambio la implementacion del codigo a python 3
+* Ya no seria necesario ejecutar con un Dockerfile
+
+* Realizar la documentacion
+
 
